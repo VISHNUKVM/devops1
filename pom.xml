@@ -34,7 +34,7 @@
 			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
 				<artifactId>mule-maven-plugin</artifactId>
-				<version>3.3.5</version>
+				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
 					<cloudHubDeployment>
@@ -43,7 +43,7 @@
 						<username>VISHNUMK11</username>
 						<password>hELLO@123</password>
 						<applicationName>mulesoft-cicd-sample</applicationName>
-						<environment>Sandbox</environment>
+						<environment>SANDBOX</environment>
 						<workerType>Micro</workerType>
 						<workers>1</workers>
 						<objectStoreV2>true</objectStoreV2>
