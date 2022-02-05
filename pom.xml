@@ -37,7 +37,7 @@
 						<username>VISHNUMK11</username>
 						<password>hELLO@123</password>
 						<applicationName>mulesoft-cicd-sample</applicationName>
-						<environment>SANDBOX</environment>
+						<environment>Sandbox</environment>
 						<workerType>Micro</workerType>
 						<workers>1</workers>
 						<objectStoreV2>true</objectStoreV2>
