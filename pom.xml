@@ -32,7 +32,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>VISHNUMK11</username>
 						<password>hELLO@123</password>
-						<applicationName>mulesoft-cicd-sample</applicationName>
+						<applicationName>mulesoft-cicd-sample-5feb</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
 						<workers>1</workers>
